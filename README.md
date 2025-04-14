@@ -1,4 +1,5 @@
-# API Proxy
+```markdown
+# API
 
 O objetivo da construção desta API é modularizar o projeto, dividindo a aplicação em microserviços. Cada microserviço é capaz de trabalhar de forma independente com suas requisições. A função principal desta API e de sevi como ponte para a conexão com as outras APIs recebendo as rquisições e as direcionando para o destino.
 
@@ -22,6 +23,12 @@ O objetivo da construção desta API é modularizar o projeto, dividindo a aplic
 3. **Ambiente Virtual**: É recomendado criar um ambiente virtual para evitar conflitos entre bibliotecas.
 
 ---
+
+## APIs externas
+Foram implemetadas duas APIs externas: 
+1. ** Consulta de CEPs **: A API foi implementada para auxiliar no cadastro de agências bancárias onde, caso o usuário digite somente o CEP, a API busca os dados restantes complementando o cadastro. Esta API esta implementada m financial_api_branch.
+2. ** Consultas de Instituições Bancárias **: Esta API retornas as informaçõs das instituiçõs financeiras a partir do código junto ao banco central. Esta API esta implementada em financial_api_bank.
+
 
 ## Passo a Passo para Instalação e Uso
 
@@ -134,25 +141,18 @@ financial_api_proxy/
 
 ## Endpoints Disponíveis
 
-1. ** /Category**
-   - Cadastro de categorias.
+1. **GET /health-check**
+   - Verifica o status da API.
 
-2. ** /bank**
-   - Cadastro de bancos e Instituições Financeiras.
+2. **POST /create**
+   - Cria um novo registro no banco de dados.
 
-3. ** /resource**
-   - Cadastro de recursos.
+3. **PUT /update**
+   - Atualiza um registro existente.
 
-4. ** /branch**
-   - Cadastro de categorias agências bancárias.
+4. **DELETE /delete**
+   - Remove um registro do banco.
 
-5. ** /account**
-   - Cadastro de contas.
-
-6. ** /transaction**
-   - Cadastro de transações.
-  
-  
 ---
 
 ## Dicas Adicionais
