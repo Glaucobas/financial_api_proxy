@@ -134,18 +134,25 @@ financial_api_proxy/
 
 ## Endpoints Disponíveis
 
-1. **GET /health-check**
-   - Verifica o status da API.
+1. ** /Category**
+   - Cadastro de categorias.
 
-2. **POST /create**
-   - Cria um novo registro no banco de dados.
+2. ** /bank**
+   - Cadastro de bancos e Instituições Financeiras.
 
-3. **PUT /update**
-   - Atualiza um registro existente.
+3. ** /resource**
+   - Cadastro de recursos.
 
-4. **DELETE /delete**
-   - Remove um registro do banco.
+4. ** /branch**
+   - Cadastro de categorias agências bancárias.
 
+5. ** /account**
+   - Cadastro de contas.
+
+6. ** /transaction**
+   - Cadastro de transações.
+  
+  
 ---
 
 ## Dicas Adicionais
