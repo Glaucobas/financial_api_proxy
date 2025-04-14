@@ -1,5 +1,4 @@
-```markdown
-# API
+# API Proxy
 
 O objetivo da construção desta API é modularizar o projeto, dividindo a aplicação em microserviços. Cada microserviço é capaz de trabalhar de forma independente com suas requisições. A função principal desta API e de sevi como ponte para a conexão com as outras APIs recebendo as rquisições e as direcionando para o destino.
 
