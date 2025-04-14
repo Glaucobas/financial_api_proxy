@@ -1,0 +1,54 @@
+2025-04-13 10:43:59,490 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 10:44:35,210 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 15:35:03,583 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:35:32,570 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:35:59,499 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:36:46,054 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:42:04,781 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:43:30,319 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:49:27,722 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:49:58,879 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:51:27,524 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:53:53,931 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:54:25,275 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:55:45,631 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:58:30,266 - app - ERROR - Erro inesperado: patch_category() missing 1 required positional argument: 'requests'
+2025-04-13 15:59:06,388 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 15:59:55,094 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:01:10,059 - app - ERROR - Erro inesperado: name 'bo' is not defined
+2025-04-13 16:01:38,705 - app - ERROR - Erro inesperado: name 'bo' is not defined
+2025-04-13 16:02:57,639 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:05:27,341 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:05:49,674 - app - ERROR - Erro ao conectar com a API externa: 401 Client Error: UNAUTHORIZED for url: http://localhost:5001/category
+2025-04-13 16:06:10,877 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5001/category
+2025-04-13 16:15:43,730 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:19:53,923 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:20:15,858 - app - ERROR - Erro ao conectar com a API externa: 422 Client Error: UNPROCESSABLE ENTITY for url: http://localhost:5004/branch
+2025-04-13 16:23:42,188 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:24:00,065 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:24:19,288 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:04,931 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:11,834 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:25:58,210 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:26:04,230 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:30:52,469 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:31:54,237 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:32:10,430 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:32:39,277 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:34:25,411 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:36:07,799 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:36:31,820 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:36:38,961 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:38:34,760 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:39:03,301 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:40:04,566 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:40:30,785 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:41:52,996 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:42:09,792 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:42:20,621 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:45:15,222 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 16:45:39,906 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 16:49:57,965 - app - ERROR - Erro inesperado: 400 Bad Request: The browser (or proxy) sent a request that this server could not understand.
+2025-04-13 17:00:38,998 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 17:01:53,736 - app - ERROR - Erro inesperado: 415 Unsupported Media Type: Did not attempt to load JSON data because the request Content-Type was not 'application/json'.
+2025-04-13 19:03:38,978 - app - ERROR - Erro ao conectar com a API externa: 500 Server Error: INTERNAL SERVER ERROR for url: http://localhost:5001/category
