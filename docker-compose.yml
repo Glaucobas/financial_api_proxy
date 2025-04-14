@@ -1,0 +1,60 @@
+services:
+  financial_api_proxy:
+    image: financial_api_proxy
+    container_name: financial_api_proxy
+    networks:
+      - redeconteiner  
+    ports:
+      - "5000:5000"
+  financial_api_category:
+    image: financial_api_category
+    container_name: financial_api_category
+    networks:
+      - redeconteiner      
+    ports:
+      - "5001:5001"
+  financial_api_bank:
+    image: financial_api_bank
+    container_name: financial_api_bank
+    networks:
+      - redeconteiner
+    ports:
+      - "5002:5002"
+  financial_api_resource:
+    image: financial_api_resource
+    container_name: financial_api_resource
+    networks:
+      - redeconteiner  
+    ports:
+      - "5003:5003"
+  financial_api_branch:
+    image: financial_api_branch
+    container_name: financial_api_branch
+    networks:
+      - redeconteiner
+    ports:
+      - "5004:5004"
+  financial_api_account:
+    image: financial_api_account
+    container_name: financial_api_account
+    networks:
+      - redeconteiner
+    ports:
+      - "5005:5005"
+  financial_api_transaction:
+    image: financial_api_transaction
+    container_name: financial_api_transaction
+    networks:
+      - redeconteiner
+    ports:
+      - "5006:5006"
+  aplicacao-web-nginx:
+    image: aplicacao-web-nginx
+    container_name: aplicacao-web-nginx
+    networks:
+      - redeconteiner
+    ports:
+      - "8080:80"
+
+networks:
+    redeconteiner:
